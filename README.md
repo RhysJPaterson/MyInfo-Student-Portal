@@ -77,7 +77,7 @@ Password - Password123
 
 For questions, suggestions, or collaboration, reach out via:
 
-**Portfolio:** [rhysjpaterson.com](https:/rhysjpaterson.com/)  
+**Portfolio:** [rhysjpaterson.com](https://rhysjpaterson.com/)  
 **GitHub:** [@RhysJPaterson](https://github.com/RhysJPaterson)
 
 ---
