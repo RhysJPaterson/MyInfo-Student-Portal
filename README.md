@@ -3,7 +3,7 @@
 
 This project is a modern reimagining of the Forth Valley College student portal, *MyInfo*. Built as part of a student-centred redesign initiative, the portal improves usability, accessibility, and overall functionality — ensuring students can more easily manage academic and personal tasks online.
 
-🚀 **[Live Demo](https://yourdomain.com/student-portal)**  
+🚀 **[Live Demo](https://student-portal.rhysjpaterson.com)**  
 🧑‍💻 **Developed by:** Rhys John Paterson
 
 ---
@@ -66,7 +66,10 @@ Please do not copy, reuse, or distribute any part of this project without writte
 
 ## 📸 Screenshots / Demo
 
-_Add screenshots or a screen recording GIF here to show off key features visually._
+![Student Portal Home Page](https://student-portal.rhysjpaterson.com/SS/img1.png)
+
+Username - 123456@learn.forthvalley.ac.uk
+Password - Password123
 
 ---
 
@@ -74,8 +77,8 @@ _Add screenshots or a screen recording GIF here to show off key features visuall
 
 For questions, suggestions, or collaboration, reach out via:
 
-**Portfolio:** [rhysjohn.dev](https://rhysjohn.dev)  
-**GitHub:** [@Rhys1181](https://github.com/Rhys1181)
+**Portfolio:** [rhysjpaterson.com](https:/rhysjpaterson.com/)  
+**GitHub:** [@RhysJPaterson](https://github.com/RhysJPaterson)
 
 ---
 
