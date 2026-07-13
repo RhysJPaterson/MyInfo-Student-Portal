@@ -66,7 +66,7 @@ Please do not copy, reuse, or distribute any part of this project without writte
 
 ## 📸 Screenshots / Demo
 
-[Student Portal Home Page](https://rhysjpaterson.com/assets/img/Myinfo Portal Project.png)
+[Student Portal Home Page](https://rhysjpaterson.com/assets/img/Myinfo%20Portal%20Project.png)
 
 Username - demo@user.com
 Password - Password123
